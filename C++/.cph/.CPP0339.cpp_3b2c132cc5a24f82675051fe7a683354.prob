@@ -1,0 +1,1 @@
+{"name":"Local: CPP0339","url":"d:\\Code PTIT\\PTIT-C++\\CPP0339.cpp","tests":[{"id":1725009199440,"input":"2\nabcab\naba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\PTIT-C++\\CPP0339.cpp","group":"local","local":true}

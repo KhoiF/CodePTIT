@@ -1,0 +1,1 @@
+{"name":"Local: CT005","url":"d:\\Code PTIT\\TRR2\\CT005.cpp","tests":[{"id":1745082885956,"input":"4 4 1\n\n1 2\n\n2 3\n\n3 4\n\n4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\TRR2\\CT005.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CPP0351","url":"d:\\Code PTIT\\PTIT-C++\\CPP0351.cpp","tests":[{"id":1726586960767,"input":"2\n1\nNguyeN    vAn    Nam\n2\nhoAng  le Nhat THONG chi","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\PTIT-C++\\CPP0351.cpp","group":"local","local":true}

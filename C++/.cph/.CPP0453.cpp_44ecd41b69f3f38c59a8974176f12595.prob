@@ -1,0 +1,1 @@
+{"name":"Local: CPP0453","url":"d:\\Code PTIT\\PTIT-C++\\CPP0453.cpp","tests":[{"id":1725114653978,"input":"1\n6 3\n10 5 15 50 40 80","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\PTIT-C++\\CPP0453.cpp","group":"local","local":true}

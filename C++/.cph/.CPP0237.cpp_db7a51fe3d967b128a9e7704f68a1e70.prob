@@ -1,0 +1,1 @@
+{"name":"Local: CPP0237","url":"d:\\Code PTIT\\PTIT-C++\\CPP0237.cpp","tests":[{"id":1732556662447,"input":"2\n2\nX X\nX X\n4\nX X X O\nX O X X\nX X X O\nX O X X","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\PTIT-C++\\CPP0237.cpp","group":"local","local":true}

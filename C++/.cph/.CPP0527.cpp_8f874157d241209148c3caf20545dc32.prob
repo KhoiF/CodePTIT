@@ -1,0 +1,1 @@
+{"name":"Local: CPP0527","url":"d:\\Code PTIT\\PTIT-C++\\CPP0527.cpp","tests":[{"id":1730139458410,"input":"3\n11 20 20\n14 20 14\n11 15 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\PTIT-C++\\CPP0527.cpp","group":"local","local":true}

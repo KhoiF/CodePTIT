@@ -1,0 +1,1 @@
+{"name":"Local: DSA01003","url":"d:\\Code PTIT\\DSA\\DSA01003.cpp","tests":[{"id":1738678232477,"input":"2\n\n5 \n\n1  2  3  4  5\n\n5\n\n5  4  3  2  1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\DSA\\DSA01003.cpp","group":"local","local":true}

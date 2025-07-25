@@ -1,0 +1,1 @@
+{"name":"Local: 0207","url":"d:\\Code PTIT\\PTIT-C++\\0207.cpp","tests":[{"id":1724903227745,"input":"2\n\n5  2\n\n1  2  3  4  5\n\n7  4\n\n1  2  3  4  5  6  7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code PTIT\\PTIT-C++\\0207.cpp","group":"local","local":true}

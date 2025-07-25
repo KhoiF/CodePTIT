@@ -1,0 +1,1 @@
+{"name":"Local: TRR4004","url":"d:\\CodePTIT\\TRR2\\TRR4004.cpp","tests":[{"id":1750353603432,"input":"4 1\n\n0 7 8 2\n\n7 0 1 5\n\n8 1 0 1\n\n2 5 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\TRR2\\TRR4004.cpp","group":"local","local":true}
